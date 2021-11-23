@@ -5,7 +5,7 @@ A template for kick starting a Cloudflare Pages project with Worker using:
 - Modules (ES Modules to be specific)
 - Rollup
 
-Worker code is in `src/_worker_.mjs`.
+Worker code is in `src/_worker.mjs`.
 Static resouces are in `static/`.
 
 Rollup is configured to output a bundled ES Module to `dist/_worker.js`.
